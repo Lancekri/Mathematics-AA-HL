@@ -42,7 +42,7 @@ $\quad \quad \quad \quad \quad \quad \quad = \frac{0.338 + 0.259}{0.785} = \fbox
 
 ## Question 3
 A continuous random variable X has the probability density function:
-$$f(x) = \left( \frac{x}{2} \right)$$
+$$f(x) = \cases{\frac{2}{(b-a)(c-a)}(x-a), a \leq x \leq c \break \frac{2}{(b-a)(b-c)}(b-x), c < x \leq b}$$
 <details>
   <summary>Answer</summary>
   
