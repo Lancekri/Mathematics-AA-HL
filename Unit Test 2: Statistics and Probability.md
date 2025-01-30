@@ -42,10 +42,20 @@ $\quad \quad \quad \quad \quad \quad \quad = \frac{0.338 + 0.259}{0.785} = \fbox
 
 ## Question 3
 A continuous random variable X has the probability density function:
-$$f(x) = \cases{\frac{2}{(b-a)(c-a)}(x-a), a \leq x \leq c \break \frac{2}{(b-a)(b-c)}(b-x), c < x \leq b}$$
+
+$$f(x) = \cases{\frac{2}{(b-a)(c-a)}(x-a), a \leq x \leq c \newline \frac{2}{(b-a)(b-c)}(b-x), c < x \leq b}$$
+
+The following diagram shows the graph of $y= f(x)$ for $a \leq x \leq b$.
+
+IMAGE
+
+Given that $c\geq \frac{a+b}{2}$, find an expression for the median of $x$ in terms of $a,b,c$. (6 marks).
+
 <details>
   <summary>Answer</summary>
-  
+  Two solutions. 
+  Using Integration:
+  $A = \int^m_a f(x) dx$
 </details>
 
 ## Question 4
