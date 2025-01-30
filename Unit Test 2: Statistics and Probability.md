@@ -3,9 +3,12 @@
 <p>Box 1 contins 5 red balls and 2 white balls.<br>Box 2 contins 4 red balls and 3 white balls.</p>
 
 **a) $A$ box is chosen at random and a ball is drawn. Find the probability that the ball is red.** (3 marks)<br>
-> <p>Red Box 1 $= \frac{1}{2} \cdot \frac{5}{7}$<br><br>
-> Red Box 2 $= \frac{1}{2} \cdot \frac{4}{7}$<br><br>
-> $P(R) = \frac{3}{14} + \frac{4}{14} = \frac{9}{14}$<br></p>
+<details>
+  <summary>Answer</summary>
+<p>Red Box 1 $= \frac{1}{2} \cdot \frac{5}{7}$<br><br>
+Red Box 2 $= \frac{1}{2} \cdot \frac{4}{7}$<br><br>
+$P(R) = \frac{3}{14} + \frac{4}{14} = \frac{9}{14}$<br></p>
+</details>
 
 <p>Let $A$ be the event that "box 1 is chosen" and let $R$ be the event that "a red ball is drawn".</p>
 
