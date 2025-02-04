@@ -6,13 +6,11 @@ Solve $\tan(2x-5\degree) = 1$ for $0\degree \leq 180\degree$.
 
 <details>
   <summary>Answer</summary>
-  ```math
-  \tan(2x-5\degree) = 1 \newline
-  2x-5\degree = \arctan 1 \newline
-  225\degree, 45\degree = 2x-5\degree \newline
-  40\degree = 2x \newline
-  x = 25\degree, 115\degree
-  ```
+  $$\tan(2x-5\degree) = 1$$<br>
+  $$2x-5\degree = \arctan 1$$ <br>
+  $$225\degree, 45\degree = 2x-5\degree$$<br>
+  $$40\degree = 2x$$<br>
+  $$x = 25\degree, 115\degree$$
 </details>
 
 ## <ins>Question 2</ins>
@@ -20,17 +18,14 @@ Solve $\tan(2x-5\degree) = 1$ for $0\degree \leq 180\degree$.
 
 <details>
   <summary>Answer</summary>
-  ```math
-  3 \times 9^x + 5 \times 3^x -2 = 0 \newline
-  3 \times 3^{2x} + 5 \times 3^x - 2 = 0 \newline
-  \text {Let } 3^x = u \newline
-  3u^2 + 5u -2 = 0 \newline
-  u = \frac{-5 \pm \sqrt{5^2-4\times 3 \times (-2)}}{2\times3} 
-  = \frac{-5 \pm 7}{6} \newline
-  \therefore 3^x = \frac{-5 + 7}{6} = \frac{2}{6} = \frac{1}{3} = 3^{-1} \newline
-  \text{or } 3^x = \frac{-5 - 7}{6} = \frac{-12}{6} = -2 = \text{No real solutions} \newline
-  x = -1
-  ```
+  $3 \times 9^x + 5 \times 3^x -2 = 0$ <br>
+  $3 \times 3^{2x} + 5 \times 3^x - 2 = 0$ <br>
+  $\text {Let } 3^x = u$ <br>
+  $3u^2 + 5u -2 = 0$ <br><br>
+  $$u = \dfrac{-5 \pm \sqrt{5^{2} - 4 \times 3 \times (-2)}}{2\times3} = \dfrac{-5 \pm 7}{6}$$ <br><br>
+  $\therefore 3^x = \dfrac{-5 + 7}{6} = \dfrac{2}{6} = \dfrac{1}{3} = 3^{-1}$ <br><br>
+  $\text{or } 3^x = \dfrac{-5 - 7}{6} = \dfrac{-12}{6} = -2 = \text{No real solutions}$ <br><br>
+  $x = -1$
 </details>
 
 ## <ins>Question 3</ins>
