@@ -58,6 +58,16 @@ Consider the differential equation $\dfrac{dy}{dx} - y\csc 2x = \sqrt{\tan x}$, 
 Give your answer correct to three significant figures.<br>
 
 (b) Show that $\dfrac{d}{dx}(\dfrac{1}{2}\ln(\cot x)) = -2 \csc 2x$.
+<details>
+  <summary>Answer</summary>
+  <ins>Solution 1</ins><br>
+  $\dfrac{d}{dx}(\dfrac{1}{2}\ln(\cot x)) = -2 \csc 2x$<br><br>
+  $\text{Let } u = \cot x \Rightarrow \dfrac{du}{dx} = \csc^2 x$<br><br>
+  $\text{Let } y = \dfrac{1}{2} \ln u \Rightarrow \dfrac{dy}{du} = \dfrac{1}{2u}$<br><br>
+  $\therefore \quad \dfrac{d}{dx}(\dfrac{1}{2}\ln(\cot x)) = \dfrac{1}{2}(\dfrac{\dfrac{d}{dx}(\cot x)}{\cot x}) = \dfrac{\frac{1}{2}(-\csc^2x)}{\cot x} = -\dfrac{1}{2\sin x \cos x} = \dfrac{-1}{\sin 2x} = -\csc2x \hbox$
+  
+</details>
+
 
 (c) Show that $\sqrt{\cot x}$ is an integrating factor for this differential equation. 
 
